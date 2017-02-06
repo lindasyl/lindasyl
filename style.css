@@ -1,0 +1,41 @@
+body {
+	background-color: #FFEBEA;
+}
+.site-header-content {
+	display: inline-block;
+}
+.center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.site-header {
+	position: relative;
+
+}
+.site-content {
+	padding: 36px;
+}
+
+.site-slideshow-content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.slider-image {
+	min-height: 100%;
+	min-width: 100%;
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.slider-image-container {
+	position: relative;
+}
+
+.image-slider {
+	min-height: ;
+}
